@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prerana GP</h1>
 <h3 align="center">A passionate Embedded System Engineer from INDIA</h3>
 
-<img align="right" alt="coding" width="400" scr="https://images.app.goo.gl/5gf4Nx5t6yAXQ8UQ7">
+<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/pikachu-hello-greetings-ysf1v96iox1fo716.gif">
 
 - 🌱 I’m currently learning **Internet of Things**
 
