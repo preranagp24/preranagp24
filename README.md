@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prerana GP</h1>
-<h3 align="center">A passionate Embedded System Engineer from INDIA</h3>
+<h3 align="center">A passionate Cybersecurity Engineer</h3>
 
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/pikachu-hello-greetings-ysf1v96iox1fo716.gif">
 
-- 🌱 I’m currently learning **Internet of Things**
-
-- 💬 Ask me about **Embedded C, Microcontroller, Verilog HDL**
+- 🌱 I’m currently learning **Network Security, Apllication Software Design, Modern Internet Technologies**
 
 - 📫 How to reach me **gpprerana18@gmail.com**
 
